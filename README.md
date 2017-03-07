@@ -11,7 +11,7 @@ mvn install:install-file -DgroupId=codemining.deps -DartifactId=$depname -Dversi
 
 The repository url to use in gradle or maven is:
 
-https://github.com/lukehb/137-jars/raw/master/maven-repo/repository
+https://github.com/lukehb/137-jars/raw/master/repository
 
 ## More info
 http://riaconnection.wordpress.com/2012/08/01/create-your-own-github-maven-repository/
